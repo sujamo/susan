@@ -9,7 +9,7 @@ Welcome! My goal for this website is to help you get a better sense of me and my
 	{% include html/name_short.html class="name--small pull-right" %}
 </div>
      
-Life can be challenging and there are times that usual ways of coping don’t work. It can be hard in the midst of difficulty to find strengths and strategies to figure things out and make life more manageable.
+Life can be challenging and there are times that usual ways of coping don’t work. It can be hard in the midst of difficulty to find strengths and use strategies to make life more manageable.
 
 You and I can join together in psychotherapy to:
 
