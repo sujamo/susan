@@ -17,6 +17,6 @@ You and I can join together in psychotherapy to:
 - Better understand your role as an actor in your life and your impact on those around you
 - Cope more easily with stresses of family, parenting, caregiving, career, and/or school 
 - Improve your relationship with your child, parent or partner
-- Develop your strengths to overcome your weaknesses
+- Develop your strengths to balance your weaknesses
 - Learn coping skills that will be of life-long benefit
 - Gain ways of connecting with your child to better his/her development
